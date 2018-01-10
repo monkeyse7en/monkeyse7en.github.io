@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[test2]]></title>
+    <title><![CDATA[空地一体化]]></title>
     <url>%2F2018%2F01%2F09%2Ftest2%2F</url>
-    <content type="text"></content>
+    <content type="text"><![CDATA[]]></content>
       <categories>
         <category>ROV</category>
+        <category>UAV</category>
+        <category>UGV</category>
       </categories>
       <tags>
         <tag>ROV</tag>
@@ -14,9 +16,9 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[test]]></title>
+    <title><![CDATA[地面机器人-灭火]]></title>
     <url>%2F2018%2F01%2F09%2Ftest-1%2F</url>
-    <content type="text"></content>
+    <content type="text"><![CDATA[]]></content>
       <categories>
         <category>ROV</category>
       </categories>
@@ -25,25 +27,25 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[山海]]></title>
-    <url>%2F2018%2F01%2F09%2Ftest%2F</url>
-    <content type="text"><![CDATA[美丽风景加图床测试]]></content>
+    <title><![CDATA[无人船-水下滑翔机]]></title>
+    <url>%2F2018%2F01%2F09%2F%E6%97%A0%E4%BA%BA%E8%88%B9%2F</url>
+    <content type="text"><![CDATA[]]></content>
       <categories>
-        <category>UAV</category>
+        <category>ROV</category>
       </categories>
       <tags>
-        <tag>UAV</tag>
+        <tag>ROV</tag>
       </tags>
   </entry>
   <entry>
     <title><![CDATA[“无人机测绘记录（1）”]]></title>
     <url>%2F2018%2F01%2F09%2F%E2%80%9C%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%B5%8B%E7%BB%98%E8%AE%B0%E5%BD%95%EF%BC%881%EF%BC%89%E2%80%9D%2F</url>
-    <content type="text"></content>
+    <content type="text"><![CDATA[]]></content>
       <categories>
-        <category>UGV</category>
+        <category>UAV</category>
       </categories>
       <tags>
-        <tag>UGV</tag>
+        <tag>UAV</tag>
       </tags>
   </entry>
 </search>
